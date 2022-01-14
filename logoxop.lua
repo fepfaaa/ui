@@ -147,7 +147,7 @@ function create:Win()
 
     UIPadding_ScolTap.Parent = ScolTap
     UIPadding_ScolTap.PaddingTop = UDim.new(0, 6)
-
+--
 
     local pagesFolder = Instance.new("Folder")
 
